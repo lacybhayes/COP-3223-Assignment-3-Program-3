@@ -1,4 +1,4 @@
-// Lacy Hayes
+// Lacy H
 // Intro to C
 // 10.16.20
 // Assignment 3 - Program 3
