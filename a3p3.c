@@ -1,5 +1,5 @@
 // Lacy Hayes
-// COP 3223C MWF
+// Intro to C
 // 10.16.20
 // Assignment 3 - Program 3
  
